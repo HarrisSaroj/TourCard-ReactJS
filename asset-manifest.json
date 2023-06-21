@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TourCards-ReactJs/static/css/main.f6e92f03.css",
+    "main.js": "/TourCards-ReactJs/static/js/main.7f45b34d.js",
+    "index.html": "/TourCards-ReactJs/index.html",
+    "main.f6e92f03.css.map": "/TourCards-ReactJs/static/css/main.f6e92f03.css.map",
+    "main.7f45b34d.js.map": "/TourCards-ReactJs/static/js/main.7f45b34d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6e92f03.css",
+    "static/js/main.7f45b34d.js"
+  ]
+}
